@@ -1,0 +1,33 @@
+header 
+{
+  background-color:bisque;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+footer 
+{
+  background-color:burlywood;
+}
+#main,
+#menu,
+#sidebar
+{
+  height: 600px;
+}
+
+
+#sidebar
+{
+    font-size:20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#main 
+{ 
+    background-color:papayawhip;
+        overflow:auto; 
+}
+
+#menu { background-color: pink; }
+
+#sidebar{background-color: beige;}
